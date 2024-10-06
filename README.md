@@ -32,7 +32,7 @@ Pre-conditions:
 ## API endpoints
 
 - Transaction APIs.
-- Aggregration APIs.
+- Aggregation APIs.
 
 ## Postman documents
 
