@@ -60,5 +60,7 @@ $ npm run start:prod
 ## App is running
 
 ```bash
-$ http://localhost:3000
+$ http://localhost:3000 Transaction service
+$ http://localhost:3001 Aggregation Service
+
 ```
